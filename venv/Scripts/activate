@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\dvuf0zn\PycharmProjects\Text_Data_Parse\venv"
+VIRTUAL_ENV="C:\Users\DVUUV4W\PycharmProjects\IOL_EOL Parser\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\dvuf0zn\PycharmProjects\Text_Data_Parse\venv
+set VIRTUAL_ENV=C:\Users\DVUUV4W\PycharmProjects\IOL_EOL Parser\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

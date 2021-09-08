@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Text_Data_Parse.iml" filepath="$PROJECT_DIR$/.idea/Text_Data_Parse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IOL_EOL Parser.iml" filepath="$PROJECT_DIR$/.idea/IOL_EOL Parser.iml" />
     </modules>
   </component>
 </project>

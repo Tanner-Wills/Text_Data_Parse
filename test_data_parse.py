@@ -1,4 +1,3 @@
-
 myFile = r'\\vwoachsfile01\assembly\Departments\Assembly Launch\Battery Plant Status\Pilot Hall\IOL_EOL_Leak Docs\PVS\288 TX6PVS0340_2021_06_16_180429.ini'
 input_file = open(myFile,'r')
 line = input_file.readline()
